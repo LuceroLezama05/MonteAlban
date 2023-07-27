@@ -1,0 +1,20 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Heather_Brim1
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.196078 0.121569
+Ks 0.330000 0.330000 0.330000
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.717647 0.776471
+Ks 0.330000 0.330000 0.330000
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 0.964706 0.964706 0.964706
+Ks 0.330000 0.330000 0.330000
+map_Kd le2/_2.jpg
+

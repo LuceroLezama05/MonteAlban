@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _5
+Ka 0.000000 0.000000 0.000000
+Kd 0.968627 0.945098 0.945098
+Ks 0.330000 0.330000 0.330000
+map_Kd letreroindicaciones/_5.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.717647 0.776471
+Ks 0.330000 0.330000 0.330000
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.003922 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd letreroindicaciones/_1.jpg
+
